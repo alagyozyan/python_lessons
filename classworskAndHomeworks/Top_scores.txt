@@ -1,4 +1,11 @@
-1.	Edgar	43
-2.	Arsen	10
-3.	Gevorg	7
-4.	Karen	4
+1.	John	1200
+2.	Judith	654
+3.	Kevin	358
+4.	Nancy	203
+5.	Samvel	201
+6.	Donald	200
+7.	David	198
+8.	Edgar	46
+9.	Arsen	10
+10.	Gevorg	7
+11.	Karen	4
