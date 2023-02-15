@@ -1,0 +1,4 @@
+1.	Edgar	43
+2.	Arsen	10
+3.	Gevorg	7
+4.	Karen	4
