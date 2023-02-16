@@ -8,4 +8,5 @@
 8.	Edgar	46
 9.	Arsen	10
 10.	Gevorg	7
-11.	Karen	4
+11.		6
+12.	Karen	4
