@@ -11,5 +11,5 @@ def to_title (l):
 
 l = (input ("Please enter some string : ")).split()
 result = to_title (l)
-print ("All upper case letters converted to lower case : ", result)
+print ("All words which started with lower case letter are converted to upper case : ", result)
 
